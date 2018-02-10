@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NYTimes Movie Reviews</string>
+    <string name="empty">Network error. Try again later, please</string>
+    <string name="read_more">read more</string>
+    <string name="complete_action">Complete action using</string>
+    <string name="retry">retry</string>
+</resources>
